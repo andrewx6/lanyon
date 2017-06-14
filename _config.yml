@@ -1,11 +1,11 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-# permalink:           pretty (undone by AS, may be wrong) 
+ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               'Drewsome'
+title:               Lanyon
 tagline:             'Andrew's Test Blog'
 description:         'A frun project for Andrew'
 url:                 http://www.getlumin.com/
