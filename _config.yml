@@ -5,8 +5,8 @@ permalink:           none
 #relative_permalinks: true
 
 # Setup
-title:               Drew Blog
-tagline:             'Andrews Test Blog'
+title:               Andrew Swearengen
+tagline:             ''
 description:         'A frun project for Andrew'
 url:                 http://www.getlumin.com/
 baseurl:             '/lanyon'
